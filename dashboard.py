@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the dataset
-file_path = "C:/Users/mauri/Documents/Dicoding Analisis Data/final_dataset_copy.pkl"
+file_path = "final_dataset_copy.pkl"
 data = pd.read_pickle(file_path)
 
 # Title
